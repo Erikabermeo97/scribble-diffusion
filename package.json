@@ -1,9 +1,9 @@
 {
   "name": "Draw best",
   "description": "Transform your rough sketch into a polished image using AI",
-  "appName": "Scribble Diffusion",
-  "appSubtitle": "Turn your sketch into a refined image using AI",
-  "appMetaDescription": "Turn your sketch into a refined image using AI",
+  "appName": "Draw best",
+  "appSubtitle": "Transform your rough sketch into a polished image using AI",
+  "appMetaDescription": "Transform your rough sketch into a polished image using AI",
   "version": "1.0.0",
   "private": true,
   "scripts": {
